@@ -1,6 +1,6 @@
 +++
 title = "The factors driving evolved herbicide resistance at a national scale"
-date = "2018-01-01"
+date = "2018-12-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Helen L Hicks", "David Comot", "Shuan R Coutts", "Laura Crook", "Richard Hull", "Ken Norris", "Paul Neve", "Dylan Z Childs", "Robert P Freckleton"]

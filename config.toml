@@ -47,7 +47,7 @@ defaultContentLanguageInSubdir = false
   organizations = [ { name = "University of Sheffield", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "pip.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "d.childs@sheffield.ac.uk"
   address = "Department of Animal and Plant Sciences, University of Sheffield, Sheffield, S10 2TN, UK"
   office_hours = ""
@@ -202,11 +202,6 @@ defaultContentLanguageInSubdir = false
   #   Full list: https://jpswalsh.github.io/academicons/
 
   [[params.social]]
-    icon = "envelope"
-    icon_pack = "fa"
-    link = "mailto:d.childs@sheffield.ac.uk"
-
-  [[params.social]]
     icon = "twitter"
     icon_pack = "fa"
     link = "//twitter.com/dylan_childs"
@@ -236,24 +231,24 @@ defaultContentLanguageInSubdir = false
   weight = 1
 
 [[menu.main]]
-  name = "Publications"
-  url = "#publications_selected"
+  name = "Teaching"
+  url = "#teaching"
   weight = 2
-
+  
 [[menu.main]]
   name = "Projects"
   url = "#projects"
-  weight = 4
-
+  weight = 3
+  
 [[menu.main]]
-  name = "Teaching"
-  url = "#teaching"
-  weight = 5
-
+  name = "Publications"
+  url = "#publications_selected"
+  weight = 4
+  
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 6
+  weight = 5
 
 # Taxonomies.
 [taxonomies]

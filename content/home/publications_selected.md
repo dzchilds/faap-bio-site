@@ -10,7 +10,7 @@ title = "Publications"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 10
+weight = 40
 
 # List format.
 #   0 = Simple
@@ -32,4 +32,5 @@ publication_type = "-1"
 
 +++
 
+A full list of published outputs can be found on [Google Scholar](https://scholar.google.co.uk/citations?user=uR05foEAAAAJ&hl=en). Forthcoming publications are listed here:  
 

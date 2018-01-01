@@ -18,7 +18,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "Submitted to *Trends in Ecology and Evolution*"
-publication_short = "Submitted to *TREE*"
+publication_short = ""
 
 # Abstract and optional shortened version.
 abstract = ""
@@ -28,11 +28,6 @@ image_preview = ""
 
 # Is this a selected publication? (true/false)
 selected = true
-
-# Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
-projects = ["example-external-project"]
 
 # Does the content use math formatting?
 math = false

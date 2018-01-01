@@ -1,19 +1,19 @@
 +++
 # Date this page was created.
-date = "2016-04-27"
+date = "2014-03-12"
 
 # Project title.
-title = "Black Grass Resistance Initiative (BGRI)"
+title = "Multiple herbicide resistance in grass weeds: moving from genes to agro-ecosystems"
 
 # Project summary to display on homepage.
-summary = "Multiple herbicide resistance in grass weeds: from genes to agro-ecosystems"
+summary = ""
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "bubbles.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["weeds", "resistance"]
+tags = ["current-grant"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "http://bgri.info"
@@ -30,10 +30,10 @@ caption = "My caption :smile:"
 
 <br>
 
-**BBSRC funded LoLa (BB/L001489/1) Multiple herbicide resistance in grass weeds: from genes to AgroEcosystems (2014-18)**
+**BBSRC LoLa Grant (BB/L001489/1): 2014-2018**
 
 - Dylan Childs
-- Rob Edwards (PI)
+- Rob Edwards (Primary Investigator)
 - Rob Feckleton
 - Louise Jones
 - Paul Neve

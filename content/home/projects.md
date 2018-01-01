@@ -5,7 +5,7 @@ widget = "projects"
 active = true
 date = "2016-04-20T00:00:00"
 
-title = "Projects"
+title = "Research"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -28,13 +28,13 @@ filter_default = 0
 #   name = "All"
 #   tag = "*"
 #   
-# [[filter]]
-#   name = "Deep Learning"
-#   tag = ".deep-learning"
-# 
-# [[filter]]
-#   name = "Other"
-#   tag = ".demo"
+[[filter]]
+  name = "current research funding"
+  tag = ".current-grant"
+
+[[filter]]
+  name = "past research funding"
+  tag = ".past-grant"
 
 +++
 

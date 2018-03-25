@@ -30,5 +30,4 @@ caption = "Dr. Shaun R. Coutts"
 
 <br>
 
-I am modelling the evolution of herbicide resistance in black grass (*Alopecurus myosuroides*), and applying optimisation tools to those models to find better intergrated weed managment stratergies. I have a wide range of other research interestes centered around demography and invasive species managment, [click here for more details](http://shauncouttsecology.com/).   
-
+I am modelling the evolution of herbicide resistance in black grass (*Alopecurus myosuroides*) and applying optimisation tools to those models to find better integrated weed management strategies. I have a wide range of other research interests centred around demography and invasive species management, [click here for more details](http://shauncouttsecology.com/).

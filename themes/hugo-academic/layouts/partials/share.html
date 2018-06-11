@@ -1,4 +1,19 @@
 {{ if .Site.Params.sharing }}
+{{ if and (isset .Params "tags") (in .Params.tags "person") (isset .Params "social") }}
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+  {{ range $key, $value := $.Params.social }}
+    <li>
+      <a class="{{ $key }}"
+         href="{{ $value | html }}"
+         target="_blank" rel="noopener">
+        <i class="fa fa-{{ $key }}"></i>
+      </a>
+    </li>
+  {{ end}}
+  </ul>
+</div>
+{{ else }}
 <div class="share-box" aria-hidden="true">
   <ul class="share">
     <li>
@@ -37,4 +52,5 @@
     </li>
   </ul>
 </div>
+{{ end }}
 {{ end }}

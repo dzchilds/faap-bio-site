@@ -26,6 +26,11 @@ math = false
 image = "headers/bubbles-wide.jpg"
 caption = "My caption :smile:"
 
+# Optional social network links
+[social]
+github = "https://github.com/username"
+twitter = "https://twitter.com/username"
+linkedin = "https://www.linkedin.com/in/username/"
 +++
 
 <br>
